@@ -30,6 +30,9 @@ A service to find teacher or students
 >iOS:
 > - Objective-C
 
+> Flutter:
+> - Dart 
+
 ## Optional:
 
 > Flutter
